@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docoborot", "docoborot\docoborot.csproj", "{704BF8FC-2F31-4EC9-9D11-3A82E97B5EF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{704BF8FC-2F31-4EC9-9D11-3A82E97B5EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704BF8FC-2F31-4EC9-9D11-3A82E97B5EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704BF8FC-2F31-4EC9-9D11-3A82E97B5EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704BF8FC-2F31-4EC9-9D11-3A82E97B5EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C629B23B-25F8-4EA2-A3C3-E78C280DEFDA}
+	EndGlobalSection
+EndGlobal
